@@ -1,13 +1,18 @@
 # FoodieHub
 
-FoodieHub is a modern, responsive food ordering frontend inspired by real-world applications like Swiggy and Zomato.
-It focuses on delivering a smooth user experience with dynamic cart interactions and a clean UI built using Vue 3.
+FoodieHub is a modern, responsive food ordering frontend inspired by real-world applications like Swiggy and Zomato. It provides a seamless user experience with dynamic cart functionality, interactive UI elements, and efficient navigation built using Vue 3.
 
 ---
 
 ## Live Demo
 
 https://foodie-hub-blond.vercel.app
+
+---
+
+## GitHub Repository
+
+https://github.com/VeguntaKusuma/FoodieHub
 
 ---
 
@@ -32,6 +37,15 @@ https://foodie-hub-blond.vercel.app
 * Vue Router
 * Bootstrap (Modal only)
 
+
+---
+
+## About the Project
+
+FoodieHub is a frontend food ordering application built to provide a smooth and user-friendly experience. Users can browse food items, add them to the cart, and manage orders easily.
+
+The project focuses on clean UI design, responsive layout, and basic cart functionality using modern frontend tools.
+
 ---
 
 ## Project Structure
@@ -53,7 +67,7 @@ src/
 Clone the repository:
 
 ```
-git clone https://github.com/YOUR_USERNAME/FoodieHub.git
+git clone https://github.com/VeguntaKusuma/FoodieHub.git
 cd FoodieHub
 ```
 
@@ -77,6 +91,11 @@ http://localhost:5173
 
 ---
 
+## Deployment
+
+This project is deployed using Vercel and is publicly accessible via the live demo link above.
+
+---
 
 ## Note
 
