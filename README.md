@@ -7,7 +7,7 @@ It focuses on delivering a smooth user experience with dynamic cart interactions
 
 ## Live Demo
 
-(Add your deployed link here)
+https://foodie-hub-blond.vercel.app
 
 ---
 
